@@ -1,0 +1,2 @@
+model_checkpoint_path: "GTSC"
+all_model_checkpoint_paths: "GTSC"
